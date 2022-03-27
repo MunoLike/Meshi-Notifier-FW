@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "sdkconfig.h": "c"
+        "sdkconfig.h": "c",
+        "esp_wifi.h": "c",
+        "*.ipp": "c"
     }
 }
