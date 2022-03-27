@@ -2,6 +2,8 @@
     "files.associations": {
         "sdkconfig.h": "c",
         "esp_wifi.h": "c",
-        "*.ipp": "c"
+        "*.ipp": "c",
+        "err.h": "c",
+        "esp_event.h": "c"
     }
 }
