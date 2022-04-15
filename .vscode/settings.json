@@ -5,6 +5,9 @@
         "*.ipp": "c",
         "err.h": "c",
         "esp_event.h": "c",
-        "api.h": "c"
-    }
+        "api.h": "c",
+        "freertos.h": "c",
+        "sockets.h": "c"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google ,ColumnLimit: 0 }"
 }
